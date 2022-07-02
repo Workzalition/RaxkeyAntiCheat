@@ -1,0 +1,6 @@
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\bin\Release\RaxkeyAntiCheat.dll
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\bin\Release\RaxkeyAntiCheat.pdb
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\obj\Release\RaxkeyAntiCheat.csproj.AssemblyReference.cache
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\obj\Release\RaxkeyAntiCheat.csproj.CoreCompileInputs.cache
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\obj\Release\RaxkeyAntiCheat.dll
+C:\Users\BuzzerFelix\source\repos\RaxkeyAntiCheat\RaxkeyAntiCheat\obj\Release\RaxkeyAntiCheat.pdb
