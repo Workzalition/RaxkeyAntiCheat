@@ -3,6 +3,12 @@
 
 It's My AntiCheat For Unity Games or C# Games... Enjoy!!! :D
 
+## Functions
+
+> Block Emulation
+> AntiHack
+> Getting Current HWID via Registry(Pls Make Sure u Have Cryptography Folder in LOCALMACHINE...)
+
 # Donation 
 
 [Ko-Fi](https://ko-fi.com/buzzerfelix_official)
